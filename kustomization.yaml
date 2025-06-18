@@ -2,5 +2,5 @@
 
 resources:
   # Uncomment the app templates if using apps-only mode
-  # - ./apptemplates
+  - ./apptemplates
   - ./tenancies
