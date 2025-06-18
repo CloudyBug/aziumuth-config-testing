@@ -13,4 +13,4 @@ resources:
   # OR
 
   # The kubeconfig to use to deploy apps when in apps-only mode
-   - ./kubeconfig-secret-sealed.yaml
+  - ./kubeconfig-secret-sealed.yaml
